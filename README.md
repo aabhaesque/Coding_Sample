@@ -14,8 +14,7 @@ Because the raw Periodic Labour Force Survey (PLFS) data and IMD gridded rainfal
 
 Yale_Predoc_Coding_Sample/  
 │  
-├── README.md <- This file  
-├── Writing_Sample.pdf <- The corresponding paper  
+├── README.md <- This file   
 ├── generate_dummy_data.py <- Script to generate synthetic datasets  
 │  
 ├── code/  
